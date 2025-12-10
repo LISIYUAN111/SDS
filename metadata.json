@@ -1,0 +1,7 @@
+{
+  "name": "Gesture Christmas Magic",
+  "description": "A cinematic, gesture-controlled 3D Christmas tree experience. Use hand gestures to assemble the tree, scatter ornaments, and interact with your memories.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}

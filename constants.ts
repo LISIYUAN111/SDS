@@ -1,0 +1,15 @@
+export const COLORS = {
+  MATTE_GREEN: '#1a472a',
+  DARK_GREEN: '#0f2b1d',
+  GOLD: '#FFD700',
+  CHAMPAGNE: '#F7E7CE',
+  RED: '#8B0000',
+  RED_BRIGHT: '#D42426',
+};
+
+export const CONSTANTS = {
+  PARTICLE_COUNT: 1200,
+  TREE_HEIGHT: 12,
+  TREE_RADIUS: 4,
+  SCATTER_RADIUS: 15,
+};
